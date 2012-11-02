@@ -1,0 +1,4 @@
+Any program can be run in any order.
+
+Example:
+	./half twice square half 10
